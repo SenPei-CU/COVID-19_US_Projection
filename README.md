@@ -1,6 +1,6 @@
 # Projection of the COVID-19 outbreak in US
 
-We calibrated a county-level metapopulation model to incidence data reported during Feb 21 2020 to Mar 13 2020 in continental US, and used the calibrated model to project the course of COVID-19 outbreaks in the US. We also simulated the effects of hypothetical social distancing and travel restrictions.
+We calibrated a county-level metapopulation model to incidence data reported during Feb 21 2020 to Mar 13 2020 in continental US, and used the calibrated model to project the course of COVID-19 outbreaks in the US. We also simulated the effects of hypothetical social distancing and travel restrictions. The model description and methods are summerized in the techical report (PDF).
 
 # Projection output
 
