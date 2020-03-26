@@ -24,6 +24,6 @@ To evaluate the impact of control measures, we examined how daily confirmed case
 
 # Citation
 
-Please cite: Sen Pei, Jeffrey Shaman, Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US. medRxiv.
+Please cite: Sen Pei, Jeffrey Shaman, Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US. medRxiv.doi: https://doi.org/10.1101/2020.03.21.20040303
 
 New York Times article: https://www.nytimes.com/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html
